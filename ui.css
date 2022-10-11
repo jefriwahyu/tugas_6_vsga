@@ -1,0 +1,26 @@
+.flex-container {
+    display: flexbox;
+    flex-direction: column;
+    background-color: blueviolet;
+    padding-left : 20px;
+    color: white;
+    padding-top: 10px;
+    margin-right: 900px;
+    border-radius: 10px;
+}
+
+.input {
+    margin-top : 10px;
+    padding-right: 70px;
+    border-radius: 5px;
+}
+
+.button {
+    background-color: yellow;
+    border: none;
+    border-radius: 5px;
+}
+
+.hr {
+    margin-left: -20px;
+}
